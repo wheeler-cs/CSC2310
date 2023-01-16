@@ -1,0 +1,7 @@
+venv
+.idea
+__pycache__
+.DS_Store
+
+# Exclude bat script used for running tests simultaneously
+*.bat
